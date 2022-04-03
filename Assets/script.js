@@ -54,14 +54,8 @@ var quizQuestions = [{
     choiceB: "terminal/bash",
     choiceC: "for loops",
     choiceD: "console.log",
-    correctAnswer: "a"},  
-    {
-    question: "What HTML attribute references an external JavaScript file?",
-    choiceA: "href",
-    choiceB: "src",
-    choiceC: "class",
-    choiceD: "index",
-    correctAnswer: "b"},
+    correctAnswer: "a"}, 
+    
         
     
     ];
