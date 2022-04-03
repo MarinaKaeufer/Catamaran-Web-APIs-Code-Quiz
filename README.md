@@ -7,7 +7,7 @@ This is how the front page looks:
 ![Quiz 4 pic.](./Assets/Screen_Shot.png)
 
 ## Website:
-https://marinakaeufer.github.io/Catamaran-Web-APIs-Code-Quiz/
+
 
 ## Github:
 https://github.com/MarinaKaeufer/Catamaran-Web-APIs-Code-Quiz
